@@ -21,11 +21,12 @@ _testmain.go
 
 *.exe
 dependencies-stamp
-/node_exporter
+/gombot-go
 /.build
 /.deps
 /.release
 /.tarballs
+/.config
 
 # Intellij
 
